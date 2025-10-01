@@ -1,0 +1,14 @@
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\bin\Debug\net8.0\Laboratorio07.exe
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\bin\Debug\net8.0\Laboratorio07.deps.json
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\bin\Debug\net8.0\Laboratorio07.runtimeconfig.json
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\bin\Debug\net8.0\Laboratorio07.dll
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\bin\Debug\net8.0\Laboratorio07.pdb
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\Laboratorio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\Laboratorio07.AssemblyInfoInputs.cache
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\Laboratorio07.AssemblyInfo.cs
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\Laboratorio07.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\Laboratorio07.dll
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\refint\Laboratorio07.dll
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\Laboratorio07.pdb
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\Laboratorio07.genruntimeconfig.cache
+C:\Users\Gonzalo Barreto\source\repos\Laboratorio07\Laboratorio07\obj\Debug\net8.0\ref\Laboratorio07.dll
